@@ -16,7 +16,9 @@ This repository showcases a simple yet comprehensive example of socket communica
 
     ```bash
     git clone https://github.com/yourusername/Socket-Communication-Example.git
+    pip install requests
     ```
+    
 
 2. Navigate to the repository:
 
